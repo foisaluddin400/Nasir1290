@@ -18,9 +18,12 @@
 
 ###
 
+</br>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nasir1290.Nasir1290&"  />
+  <img height="40rem" width="180rem" src="https://visitor-badge.laobi.icu/badge?page_id=Nasir1290.Nasir1290&"  />
 </div>
+</br>
+</br>
 
 ###
 
