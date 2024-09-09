@@ -2,6 +2,13 @@
   <img  src="https://res.cloudinary.com/nasir1290/image/upload/v1723699050/linkedin-banner_vmesxx.png"  />
 </div>
 
+
+</br>
+<div align="center">
+  <img height="30rem" width="150rem" src="https://visitor-badge.laobi.icu/badge?page_id=Nasir1290.Nasir1290&"  />
+</div>
+
+
 ###
 
 <div align="center">
@@ -17,58 +24,86 @@
 </div>
 
 ###
+### Programming languages
 
-</br>
-<div align="center">
-  <img height="40rem" width="180rem" src="https://visitor-badge.laobi.icu/badge?page_id=Nasir1290.Nasir1290&"  />
-</div>
-</br>
-</br>
-
-###
-
-<h1 align="center" >Hey there 👋</h1>
-
-###
-
-
-<h3 align="center">🐍 Watch Snake Eating My Contributions!!🐍</h3>
-<img src="https://raw.githubusercontent.com/Nasir1290/Nasir1290/output/snake.svg" alt="Snake animation" />
-
-###
+<p>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+  </a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+  </a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac++">
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white">
+  </a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atypescript">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+  </a>
+</p>
 
 
-<h3 align="left">👩‍💻  About Me</h3>
+### Frameworks and libraries
 
-###
+<p>
+  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+  <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
+  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+</p>
 
-<h4 align="left">👋 Hi, I’m Nasir, a full-stack web developer and computer science student.<br><br>🔭 I’m currently working as an intern at Bdcalling Academy.<br><br>📚 I’m currently learning advanced MERN stack and Next.js concepts.<br><br>⚽ In my free time, I enjoy playing football and swimming.</h4>
 
-###
+### Databases 
+
+<p>
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"></a>
+</p>
 
 
-</br>
-</br>
-</br>
-<h3 align="center">🔥   My Stats :</h3>
+### Cloud hosting
 
-###
+<p>
+  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
+  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+  <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nasir1290&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
-<br/>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nasir1290&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nasir1290&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### Software and tools
 
-</br>
-</br>
-</br>
-<h3 align="center">🛠 Language and tools</h3>
+<p>
+  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+  <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white"></a>
+  <a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?logo=microsoft-office&logoColor=white"></a>
+  <a href="#"><img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A.svg?logo=microsoft-powerpoint&logoColor=white"></a>
+  <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?logo=microsoft-excel&logoColor=white"></a>
+  <a href="#"><img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft%20Word-2B579A.svg?logo=microsoft-word&logoColor=white"></a>
+  <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A67E.svg?logo=openai&logoColor=white"></a>
+  <a href="#"><img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-0099E5.svg?logo=github&logoColor=white"></a>
+</p>
+
+
+
+## 🚀 Current stats
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Nasir1290/github-readme-streak-stats" title="Go to Source">
+        <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Nasir1290&theme=react&border=61dafb&hide_border=true" alt="Nasir1290" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Nasir1290/github-readme-stats" title="Go to Source">
+        <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=Nasir1290&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ###
 
