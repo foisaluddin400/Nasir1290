@@ -138,6 +138,13 @@
 </div>
 
 ###
+###
+
+
+<h3 align="center">🐍 Watch Snake Eating My Contributions!!🐍</h3>
+<img src="https://raw.githubusercontent.com/Nasir1290/Nasir1290/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
