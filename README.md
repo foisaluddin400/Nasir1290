@@ -5,7 +5,7 @@
 
 </br>
 <div align="center">
-  <img height="30rem" width="150rem" src="https://visitor-badge.laobi.icu/badge?page_id=Nasir1290.Nasir1290&"  />
+  <img height="15rem" width="75rem" src="https://visitor-badge.laobi.icu/badge?page_id=Nasir1290.Nasir1290&"  />
 </div>
 
 
